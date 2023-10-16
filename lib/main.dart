@@ -160,7 +160,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('Current patch version:'),
+            const Text('Update new 1 version'),
             Text(
               heading,
               style: theme.textTheme.headlineMedium,
